@@ -4,7 +4,7 @@ This repository contains code and data for the paper **“High-Dimensional Matri
 
 ## Files
 
-- `code/POETSS_numberfactor.R`: factor number estimation
+- `code/factor_number_simulation.R`: factor number estimation
 - `code/scatter_matrix_vH.R`: simulation code for scatter matrix estimation
 - `code/POET_SS_H0_vH.R`: simulation code for POET_SS estimator and its target
 - `code/covariance_matrix_vH.R`: simulation code for covariance matrix estimation
